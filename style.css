@@ -1,0 +1,16 @@
+.box {
+    min-height: 100px;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 1px solid gray;
+    width: 100px;
+}
+
+.row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    height: 200px;
+    background-color: cadetblue;
+}
